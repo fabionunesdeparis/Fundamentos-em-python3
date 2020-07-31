@@ -1,0 +1,5 @@
+n1 = int(input('Digito o primeiro número:  '))
+n2 = int(input ('Digite o segundo número: '))
+soma = int((n1+n2))
+# print ('A soma entre', n1, 'e', n2, 'vale {}'.format(soma))
+print ('A soma entre {} e {} é: {}'.format(n1,n2,soma))

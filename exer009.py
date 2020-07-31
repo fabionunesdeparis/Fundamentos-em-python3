@@ -1,0 +1,28 @@
+# @Fábio C. Nunes 04/05/2020
+# Escreva um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+valor = int(input('Digite um valor inteiro: '))
+tab = 0
+print('-' *12)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+tab = (tab+1)
+print('{} x {:2} = {}'.format(valor,tab,valor*tab))
+print('-' *12)

@@ -1,0 +1,6 @@
+teste = list()
+teste.append('Fábio')
+teste.append(35)
+galera = list()
+galera.append(teste)
+print(teste)
